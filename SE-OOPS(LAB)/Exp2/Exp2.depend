@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662444759 source:c:\users\student\desktop\21co24\exp2\program4.cpp
+	<iostream>
+	<string>
+	"grade_report.h"
+
+1662444742 c:\users\student\desktop\21co24\exp2\grade_report.h
+	<string>
+
+1662616587 source:c:\users\student\desktop\21co24\exp2\program5.cpp
+	<iostream>
+
+1662959864 source:c:\users\student\desktop\21co24\exp2\program7.cpp
+	<iostream>
+	"payslip.h"
+
+1662960007 c:\users\student\desktop\21co24\exp2\payslip.h
+	<iostream>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668351278 source:c:\users\student\desktop\oops lab_21co24\exp8\divbyzero.cpp
+	<iostream>
+
+1668351629 source:c:\users\student\desktop\oops lab_21co24\exp8\nestedthrow.cpp
+	<iostream>
+
+1668352095 source:c:\users\student\desktop\oops lab_21co24\exp8\rangeoutofbounds.cpp
+	<iostream>
+
+1668352204 source:c:\users\student\desktop\oops lab_21co24\exp8\program2.cpp
+	<iostream>
+
+1668352524 source:c:\users\student\desktop\oops lab_21co24\exp8\singlecatch.cpp
+	<iostream>
+
+1669006710 source:c:\users\student\desktop\oops lab_21co24\exp8\practice13.6.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+

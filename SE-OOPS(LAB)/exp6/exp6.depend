@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1666674397 source:c:\users\student\desktop\oops lab_21co24\exp6\exp1.cpp
+	<iostream>
+	<string>
+
+1666679142 source:c:\users\student\desktop\oops lab_21co24\exp6\exp2.cpp
+	<iostream>
+	<string>
+	<string.h>
+
+1667190280 source:c:\users\student\desktop\oops lab_21co24\exp6\program1.cpp
+	<iostream>
+	<string>
+
+1667191496 source:c:\users\student\desktop\oops lab_21co24\exp6\program3.cpp
+	<iostream>
+
+1668237450 source:c:\users\ethan menezes\desktop\c programs\oops_lab-file\oops_lab\exp6\program3.cpp
+	<iostream>
+	<string>
+

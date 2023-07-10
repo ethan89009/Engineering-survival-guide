@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669094837 source:c:\users\ethan menezes\desktop\c programs\oops_lab-file\oops_lab\exp9\program1.cpp
+	<iostream>
+
+1669097619 source:c:\users\ethan menezes\desktop\c programs\oops_lab-file\oops_lab\exp9\program2.cpp
+	<iostream>
+	<string>
+
+1669222775 source:c:\users\ethan menezes\desktop\c programs\oops_lab-file\oops_lab\exp9\program4.cpp
+	<iostream>
+

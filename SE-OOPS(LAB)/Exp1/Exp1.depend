@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1661140982 source:c:\users\student\desktop\21co24\exp1\program1.cpp
+	<iostream>
+
+1661141360 source:c:\users\student\desktop\21co24\exp1\program2.cpp
+	<iostream>
+
+1661145471 source:c:\users\student\desktop\21co24\exp1\program9.cpp
+	<iostream>
+	"cal.h"
+
+1661143713 c:\users\student\desktop\21co24\exp1\cal.h
+
+1661232008 source:c:\users\student\desktop\21co24\exp1\program11.cpp
+	<iostream>
+	"cal.h"
+	<math.h>
+
+1661233201 source:c:\users\student\desktop\21co24\exp1\program12.cpp
+	<iostream>
+

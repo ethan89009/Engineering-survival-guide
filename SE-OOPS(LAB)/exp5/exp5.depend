@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664774199 source:c:\users\student\desktop\oops lab_21co24\exp5\prog1.cpp
+	<iostream>
+
+1665983817 source:c:\users\student\desktop\oops lab_21co24\exp5\prog11.cpp
+	<iostream>
+	<stdlib.h>
+
